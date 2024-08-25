@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @Iam-raghavkannan
-- 👀 I’m interested in Brain Computer Interface 
-- 🌱 I’m currently learning Lessons 
 - 📫 How to reach me iamraghukannan@gmail.com
 
 <!---
